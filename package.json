@@ -1,0 +1,21 @@
+{
+  "name": "neon-silver",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Cooper_pr",
+    "email": "nickpartum@gmail.com"
+  },
+  "description": "Trading platform.",
+  "license": "MIT",
+  "scripts": {
+
+    "start:all": "yarn run start:api && yarn run start:site",
+    "start:api": "cd api && yarn run start",
+    "start:site": "cd site && yarn run start",
+
+    "install:all": "yarn run install:server && yarn run install:client",
+    "install:api": "cd api && yarn install",
+    "install:site": "cd site && yarn install"
+  }
+}
