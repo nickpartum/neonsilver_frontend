@@ -6,9 +6,11 @@
   "scripts": {
     "watch": "tsc -v",
     "start": "nodemon -r ts-node --files ./src/index.ts",
-    "knex:migrate:make": "knex --knexfile src/database/knexfile.ts -x ts migrate:make",
-    "knex:migrate:latest": "knex --knexfile src/database/knexfile.ts migrate:latest",
-    "knex:migrate:rollback": "knex --knexfile src/database/knexfile.ts migrate:rollback"
+
+    "knex:migrate:make": "knex --knexfile knexfile.ts migrate:make",
+    "knex:migrate:latest": "knex --knexfile knexfile.ts migrate:latest",
+    "knex:migrate:rollback": "knex --knexfile knexfile.ts migrate:rollback --all",
+    "seed": "knex seed:run"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",

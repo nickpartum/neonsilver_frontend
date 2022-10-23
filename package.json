@@ -9,13 +9,16 @@
   "description": "Trading platform.",
   "license": "MIT",
   "scripts": {
-
     "start:all": "yarn run start:api && yarn run start:site",
     "start:api": "cd api && yarn run start",
     "start:site": "cd site && yarn run start",
-
-    "install:all": "yarn run install:server && yarn run install:client",
     "install:api": "cd api && yarn install",
     "install:site": "cd site && yarn install"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.10",
+    "@mui/styled-engine-sc": "^5.10.6",
+    "styled-components": "^5.3.6"
   }
 }

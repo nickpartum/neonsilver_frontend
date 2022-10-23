@@ -1,27 +1,25 @@
-import { Knex } from "knex";
+import {Knex} from "knex";
+import {TableName} from "../../common/enums";
 
-const tableName = 'user'
+const tableName = TableName.ProductGroup
 
 export async function up(knex: Knex): Promise<void> {
     return knex.schema.createTable(tableName, (table: Knex.TableBuilder) => {
-        table.increments()
+        table.increments('id').primary();
         table.timestamp('created_at').notNullable().defaultTo(knex.fn.now())
         table.timestamp('updated_at').notNullable().defaultTo(knex.fn.now())
 
-        table.string('first_name').notNullable()
-        table.string('last_name').notNullable()
-        table.string('email').notNullable()
-        table.string('password').notNullable()
+        table.string('name').notNullable().defaultTo('Default Group Name')
 
-        table.unique(['email'])
-        table.unique(['email','first_name','last_name'])
+        table.integer('attribute_id')
+            .references('id').inTable(TableName.ProductAttribute).notNullable()
+
+        table.unique(['name'])
     });
-
 }
 
 
 export async function down(knex: Knex): Promise<void> {
     return knex.schema.dropTable(tableName);
-
 }
 

@@ -1,4 +1,4 @@
-import productRepository from "../data/repositories/productRepository";
+import productRepository from "../data/repositories/productItemRepository";
 import {IProduct} from "../common/models";
 
 

@@ -20,7 +20,7 @@ app.use(urlencoded({ extended: true }));
 
 app.use(cors());
 
-app.use('/', routes);
+app.use('/api', routes);
 app.use(errorHandlerMiddleware);
 
 

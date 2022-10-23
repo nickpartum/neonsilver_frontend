@@ -2,9 +2,7 @@ import {Model, snakeCaseMappers} from "objection";
 
 class BaseModel extends Model {
     id: number;
-
     createdAt: string;
-
     updatedAt: string;
 
     static get columnNameMappers() {
