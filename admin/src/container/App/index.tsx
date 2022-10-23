@@ -8,7 +8,7 @@ interface ICProps {
 
 const App: FC<ICProps> = (props) => {
     return (
-        <div>App</div>
+        <div>Appp</div>
     )
 }
 
