@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/neonsilver_frontend/static/css/main.d0534bd0.css",
+    "main.js": "/neonsilver_frontend/static/js/main.a630cd7a.js",
+    "static/js/353.33de2ff3.chunk.js": "/neonsilver_frontend/static/js/353.33de2ff3.chunk.js",
+    "static/js/546.3abda9ed.chunk.js": "/neonsilver_frontend/static/js/546.3abda9ed.chunk.js",
+    "static/css/490.665467ef.chunk.css": "/neonsilver_frontend/static/css/490.665467ef.chunk.css",
+    "static/js/490.8730556a.chunk.js": "/neonsilver_frontend/static/js/490.8730556a.chunk.js",
+    "static/js/787.dfc08e87.chunk.js": "/neonsilver_frontend/static/js/787.dfc08e87.chunk.js",
+    "static/js/569.03726318.chunk.js": "/neonsilver_frontend/static/js/569.03726318.chunk.js",
+    "static/js/90.b46d8c1a.chunk.js": "/neonsilver_frontend/static/js/90.b46d8c1a.chunk.js",
+    "static/js/843.940c9637.chunk.js": "/neonsilver_frontend/static/js/843.940c9637.chunk.js",
+    "static/media/nova_poshta_icon.jpg": "/neonsilver_frontend/static/media/nova_poshta_icon.5b6162bf7c903e6abfc9.jpg",
+    "index.html": "/neonsilver_frontend/index.html",
+    "main.d0534bd0.css.map": "/neonsilver_frontend/static/css/main.d0534bd0.css.map",
+    "main.a630cd7a.js.map": "/neonsilver_frontend/static/js/main.a630cd7a.js.map",
+    "353.33de2ff3.chunk.js.map": "/neonsilver_frontend/static/js/353.33de2ff3.chunk.js.map",
+    "546.3abda9ed.chunk.js.map": "/neonsilver_frontend/static/js/546.3abda9ed.chunk.js.map",
+    "490.665467ef.chunk.css.map": "/neonsilver_frontend/static/css/490.665467ef.chunk.css.map",
+    "490.8730556a.chunk.js.map": "/neonsilver_frontend/static/js/490.8730556a.chunk.js.map",
+    "787.dfc08e87.chunk.js.map": "/neonsilver_frontend/static/js/787.dfc08e87.chunk.js.map",
+    "569.03726318.chunk.js.map": "/neonsilver_frontend/static/js/569.03726318.chunk.js.map",
+    "90.b46d8c1a.chunk.js.map": "/neonsilver_frontend/static/js/90.b46d8c1a.chunk.js.map",
+    "843.940c9637.chunk.js.map": "/neonsilver_frontend/static/js/843.940c9637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0534bd0.css",
+    "static/js/main.a630cd7a.js"
+  ]
+}
