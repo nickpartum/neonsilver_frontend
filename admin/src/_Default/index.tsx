@@ -6,10 +6,10 @@ interface ICProps {
 
 }
 
-const Default: FC<ICProps> = (props) => {
+const _Default: FC<ICProps> = (props) => {
     return (
         <div>Default</div>
     )
 }
 
-export default Default
+export default _Default

@@ -12,6 +12,8 @@
     "start:all": "yarn run start:api && yarn run start:site",
     "start:api": "cd api && yarn run start",
     "start:site": "cd site && yarn run start",
+    "start:admin": "cd admin && yarn run start",
+
     "install:api": "cd api && yarn install",
     "install:site": "cd site && yarn install"
   },
