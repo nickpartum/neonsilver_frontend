@@ -1,30 +1,21 @@
 {
   "files": {
     "main.css": "/neonsilver_frontend/static/css/main.d0534bd0.css",
-    "main.js": "/neonsilver_frontend/static/js/main.5da8fcbe.js",
-    "static/js/819.92570b8f.chunk.js": "/neonsilver_frontend/static/js/819.92570b8f.chunk.js",
-    "static/js/546.3abda9ed.chunk.js": "/neonsilver_frontend/static/js/546.3abda9ed.chunk.js",
-    "static/css/490.665467ef.chunk.css": "/neonsilver_frontend/static/css/490.665467ef.chunk.css",
-    "static/js/490.d57fb9b4.chunk.js": "/neonsilver_frontend/static/js/490.d57fb9b4.chunk.js",
+    "main.js": "/neonsilver_frontend/static/js/main.3fa81cd4.js",
+    "static/css/772.d8c5c0b1.chunk.css": "/neonsilver_frontend/static/css/772.d8c5c0b1.chunk.css",
+    "static/js/772.142edeab.chunk.js": "/neonsilver_frontend/static/js/772.142edeab.chunk.js",
     "static/js/787.dfc08e87.chunk.js": "/neonsilver_frontend/static/js/787.dfc08e87.chunk.js",
-    "static/js/268.4fb5b54a.chunk.js": "/neonsilver_frontend/static/js/268.4fb5b54a.chunk.js",
-    "static/js/223.6c4a1b5a.chunk.js": "/neonsilver_frontend/static/js/223.6c4a1b5a.chunk.js",
-    "static/js/178.14d3472e.chunk.js": "/neonsilver_frontend/static/js/178.14d3472e.chunk.js",
-    "static/media/nova_poshta_icon.jpg": "/neonsilver_frontend/static/media/nova_poshta_icon.5b6162bf7c903e6abfc9.jpg",
+    "static/js/832.44eb834a.chunk.js": "/neonsilver_frontend/static/js/832.44eb834a.chunk.js",
     "index.html": "/neonsilver_frontend/index.html",
     "main.d0534bd0.css.map": "/neonsilver_frontend/static/css/main.d0534bd0.css.map",
-    "main.5da8fcbe.js.map": "/neonsilver_frontend/static/js/main.5da8fcbe.js.map",
-    "819.92570b8f.chunk.js.map": "/neonsilver_frontend/static/js/819.92570b8f.chunk.js.map",
-    "546.3abda9ed.chunk.js.map": "/neonsilver_frontend/static/js/546.3abda9ed.chunk.js.map",
-    "490.665467ef.chunk.css.map": "/neonsilver_frontend/static/css/490.665467ef.chunk.css.map",
-    "490.d57fb9b4.chunk.js.map": "/neonsilver_frontend/static/js/490.d57fb9b4.chunk.js.map",
+    "main.3fa81cd4.js.map": "/neonsilver_frontend/static/js/main.3fa81cd4.js.map",
+    "772.d8c5c0b1.chunk.css.map": "/neonsilver_frontend/static/css/772.d8c5c0b1.chunk.css.map",
+    "772.142edeab.chunk.js.map": "/neonsilver_frontend/static/js/772.142edeab.chunk.js.map",
     "787.dfc08e87.chunk.js.map": "/neonsilver_frontend/static/js/787.dfc08e87.chunk.js.map",
-    "268.4fb5b54a.chunk.js.map": "/neonsilver_frontend/static/js/268.4fb5b54a.chunk.js.map",
-    "223.6c4a1b5a.chunk.js.map": "/neonsilver_frontend/static/js/223.6c4a1b5a.chunk.js.map",
-    "178.14d3472e.chunk.js.map": "/neonsilver_frontend/static/js/178.14d3472e.chunk.js.map"
+    "832.44eb834a.chunk.js.map": "/neonsilver_frontend/static/js/832.44eb834a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0534bd0.css",
-    "static/js/main.5da8fcbe.js"
+    "static/js/main.3fa81cd4.js"
   ]
 }
